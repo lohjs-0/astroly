@@ -78,17 +78,6 @@ Acesse `http://localhost:5173` no navegador.
 
 ---
 
-## 🔐 Variáveis de Ambiente
-
-Crie um arquivo `.env` na raiz do projeto com suas credenciais do Supabase:
-
-```env
-VITE_SUPABASE_URL=sua_url_aqui
-VITE_SUPABASE_ANON_KEY=sua_chave_aqui
-```
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
