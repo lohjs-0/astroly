@@ -27,7 +27,6 @@ Astroly é uma landing page interativa inspirada no cosmos, com animações de s
 | [TypeScript](https://www.typescriptlang.org/) | Tipagem |
 | [Vite](https://vitejs.dev/) | Bundler |
 | [Tailwind CSS](https://tailwindcss.com/) | Estilização |
-| [Supabase](https://supabase.com/) | Autenticação e banco de dados |
 | [Lucide React](https://lucide.dev/) | Ícones |
 | [Vercel](https://vercel.com/) | Deploy |
 
