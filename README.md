@@ -2,7 +2,7 @@
 
 > Explore the mysteries of the universe.
 
-Astroly é uma landing page interativa inspirada no cosmos, com animações de sistema solar, explorador de planetas, galeria espacial e autenticação via Supabase.
+Astroly é uma landing page interativa inspirada no cosmos, com animações de sistema solar, explorador de planetas, galeria espacial.
 
 🌐 **[astroly-gules.vercel.app](https://astroly-gules.vercel.app)**
 
